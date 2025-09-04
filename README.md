@@ -13,9 +13,9 @@ All you need to get started on the server
 ## 5. Add a new folder called mods unlss a mods folder is already there
 
 ## 6. Install modpack folder above (YOU DO NOT NEED BOTH PICK BASED ON SPECS)
-### Modpack (https://drive.google.com/drive/folders/1PmlOiogAwrXpYnKB2Zd459WEEAHZC3xG?usp=sharing): 
+### Modpack: 
 - client side modpack with all mods
-### Modpack (performance) (https://drive.google.com/drive/u/0/folders/1ZuDLrX__AtVyTzq57jn1tst2Giy_IrXp)
+### Modpack (performance)
 - Performance modpack removes iris, vr support, controller support, shaders and distant horizons
 
 ## 7. Drag mods in minecraft into mods folder
