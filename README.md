@@ -12,7 +12,7 @@ All you need to get started on the server
 
 ## 5. Add a new folder called mods unlss a mods folder is already there
 
-## 6. Install modpack folder above (YOU DO NOT NEED BOTH PICK BASED ON SPECS)
+## 6. Install modpack folder above (click code then download zip) (YOU DO NOT NEED BOTH PICK BASED ON SPECS)
 ### Modpack: 
 - client side modpack with all mods
 ### Modpack (performance)
